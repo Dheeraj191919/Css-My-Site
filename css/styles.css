@@ -1,0 +1,127 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+font-style: italic;
+font-weight: normal;
+}
+
+
+/* h1 and h2 */
+.dheeraj{margin-top:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+font-size: 60px;
+color: #c36a2d;
+}
+.singh{
+  color: #c36a2d;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+
+
+
+
+
+h2{
+  color: #293462;
+}
+h3{
+  color: #216583
+}
+.footer-link{
+  color: #11999E;
+
+}
+
+
+.pro{
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
+
+}
+
+.top-container{
+  background-color: #e2c275;
+  padding-top: 100px;
+}
+.middle-container{
+  margin-top: 50px;
+}
+.cloud{
+  position: absolute;
+  right: 20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  top: 200px;
+}
+.top-cloud{
+  position: absolute;
+ right: 300px;
+  top: 50px;
+}
+.birds{
+  height: 50px;
+  width: 50px;
+  position: relative;
+  bottom: 450px;
+  right: 160px;
+}
+.animal{
+  position: absolute;
+  top: 170px;
+  left: 30px;
+
+}
+
+}
+.web-developer{
+  margin-top: 100px;
+}
+
+.flag{
+  position: absolute;
+  right: 635px;
+  top: 330px;
+  height: 50px;
+  width: 50px;
+}
+.flag-1{
+  position: absolute;
+  right: 540px;
+  top: 360px;
+  height: 50px;
+  width: 50px
+}
+.flag-3{
+  position: absolute;
+  right: 735px;
+  height: 50px;
+  width: 50px;
+  top: 410px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.designer{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.achievement{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
